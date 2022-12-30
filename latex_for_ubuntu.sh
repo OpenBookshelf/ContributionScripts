@@ -1,6 +1,5 @@
 sudo echo "Let's Go"
 wget http://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz
-gunzip install-tl-unx.tar.gz
 tar -xf install-tl-unx.tar.gz
 rm install-tl-unx.tar.gz
 cd install-tl-*/
